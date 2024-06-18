@@ -1,5 +1,9 @@
 # MDViewer Changelog
 
+## 4.0.0
+
+- Added ILIAS 9 compatibility.
+
 ## v3.0.2
 
 - Fixed an issue where empty block filter lead to a fatal.
